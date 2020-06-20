@@ -1,0 +1,67 @@
+body{
+	margin: 0;
+	background-color: #3f3fff;
+	
+}
+.wrap{
+	
+}
+.main{
+	padding-top: 150px;
+	color: white;
+	font-family: 'Do Hyeon', sans-serif;
+	text-align: center;
+	min-width: 1500px;
+}
+.name{
+	font-size: 42px;
+    margin: 0;
+}
+.desc{
+	margin: 62px 0 150px;
+}
+.sg-title{
+	width: 900px;
+    display: inline-block;
+    text-align: left;
+	font-size: 25px;
+	margin: 0;
+	margin-top: 100px;
+}
+.desc dl{
+	position: relative;
+    display: inline-block;
+    width: 230px;
+    padding: 18px 40px 150px;
+    text-align: left;
+	margin: 0;
+}
+.desc dl dt{
+	margin-bottom: 12px;
+    padding-left: 10px;
+    font-size: 28px;
+    line-height: 23px;
+}
+.desc dl dd{
+	padding-left: 10px;
+    font-size: 16px;
+    line-height: 22px;
+    opacity: .5;
+	margin: 0;
+}
+.item-center{
+	border-right: 1px solid #3634ea;
+    border-left: 1px solid #3634ea;
+}
+
+.inform{
+	border-top: 1px solid #3634ea;
+	padding: 61 0;
+	text-align: center;
+}
+.inform i{
+	color: white;
+	font-size: 35px;
+	margin-left: 10px;
+	cursor: pointer;
+}
